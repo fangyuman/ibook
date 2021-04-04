@@ -1,22 +1,22 @@
 {
   "name": "ibookabc",
   "version": "1.0.0",
-  "description": "琼瑶作品合集",
+  "description": "请回答1988",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhangchaohui1102/ibookabc.git"
+    "url": "git+https://github.com/fangyuman/ibook.git"
   },
   "keywords": [],
-  "author": "zhangchaohui1102",
+  "author": "fangyuman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zhangchaohui1102/ibookabc/issues"
+    "url": "https://github.com/fangyuman/ibook/issues"
   },
-  "homepage": "https://github.com/zhangchaohui1102/ibookabc#readme",
+  "homepage": "https://github.com/fangyuman/ibook#readme",
   "devDependencies": {
     "gitbook-cli": "^2.3.2"
   }
